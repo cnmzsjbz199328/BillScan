@@ -1,0 +1,7 @@
+name = "billscan-worker"
+main = "src/index.js"
+compatibility_date = "2024-04-01"
+
+[vars]
+GAS_URL = "YOUR_GAS_URL_HERE"
+AI_BACKEND_URL = "YOUR_AI_BACKEND_URL_HERE"
